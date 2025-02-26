@@ -1,2 +1,2 @@
 def cook():
-    print("we are making cevice")
+    print("we are making cigars")
